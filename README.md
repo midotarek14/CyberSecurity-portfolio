@@ -58,7 +58,7 @@ This project showcases a cybersecurity-focused personal portfolio with a dark te
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/USERNAME/CyberSecurity-portfolio.git
 ```
 
 ### 2. Open the project
@@ -66,7 +66,7 @@ git clone https://github.com/USERNAME/REPOSITORY.git
 Navigate to the project directory:
 
 ```bash
-cd REPOSITORY
+cd CyberSecurity-portfolio
 ```
 
 ### 3. Run the website
